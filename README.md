@@ -5,8 +5,8 @@
 
 <h3 align="left">My Projects:</h3>
 <p align="left">
-  <a href="https://vertexscripts.com" target="_blank" rel="noreferrer"> <img src="https://vertexscripts.com/logo.png" alt="vertex-scripts" width="40" height="40"/>
-  <a href="https://vertexscripts.com" target="_blank" rel="noreferrer"> <img src="https://aiconify.eu/logo.png" alt="vertex-scripts" width="40" height="40"/>
+  <a href="https://vertexscripts.com" target="_blank" rel="noreferrer"> <img src="https://vertexscripts.com/logo.png" alt="vertex-scripts" width="40" height="40" />
+  <a href="https://sourcesha.re" target="_blank" rel="noreferrer"> <img src="https://sourcesha.re/logo.png" alt="vertex-scripts" width="40" height="40"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
